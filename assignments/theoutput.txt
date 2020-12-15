@@ -1,0 +1,62 @@
+Name:Tilon Bobb  Assignment#:7
+
+2/26/12 is the original date
+2 is the month   26 is the day   12 is the year
+2-26-12 is the European way of printing
+February 26 2012 is the American way of printing
+01-26-2012 is the full way of printing
+
+1/22/30 is the original date
+1 is the month   22 is the day   30 is the year
+1-22-30 is the European way of printing
+January 22 2030 is the American way of printing
+01-22-2030 is the full way of printing
+
+9/21/00 is the original date
+9 is the month   21 is the day   00 is the year
+9-21-00 is the European way of printing
+September 21 2000 is the American way of printing
+9-21-2000 is the full way of printing
+
+10/2/13 is the original date
+10 is the month   2 is the day   13 is the year
+10-2-13 is the European way of printing
+October 2 2013 is the American way of printing
+10-2-2013 is the full way of printing
+
+11/5/13 is the original date
+11 is the month   5 is the day   13 is the year
+11-5-13 is the European way of printing
+November 5 2013 is the American way of printing
+11-5-2013 is the full way of printing
+
+12/25/20 is the original date
+12 is the month   25 is the day   20 is the year
+12-25-20 is the European way of printing
+December 25 2020 is the American way of printing
+12-25-2020 is the full way of printing
+
+3/2/13 is the original date
+3 is the month   2 is the day   13 is the year
+3-2-13 is the European way of printing
+March 2 2013 is the American way of printing
+3-2-2013 is the full way of printing
+
+10/15/14 is the original date
+10 is the month   15 is the day   14 is the year
+10-15-14 is the European way of printing
+October 15 2014 is the American way of printing
+10-15-2014 is the full way of printing
+
+9/13/01 is the original date
+9 is the month   13 is the day   01 is the year
+9-13-01 is the European way of printing
+September 13 2001 is the American way of printing
+9-13-2001 is the full way of printing
+
+11/24/16 is the original date
+11 is the month   24 is the day   16 is the year
+11-24-16 is the European way of printing
+November 24 2016 is the American way of printing
+11-24-2016 is the full way of printing
+
